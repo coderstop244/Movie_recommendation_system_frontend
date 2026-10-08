@@ -26,3 +26,10 @@ dist-ssr
 
 PROJECT_SYNOPSIS.md
 PROJECT_SYNOPSIS_Frontend.docx
+
+.env
+.env.*
+!.env.example
+
+# extra folders
+movie-recommendation/
